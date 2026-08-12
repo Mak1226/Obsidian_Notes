@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "c9a13c345e01aeea",
+    "type": "split",
+    "children": [
+      {
+        "id": "52a8b6e60dd627c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c12f61049bd9e8b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1st_Year/Business _Statistics/Lecture_7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture_7"
+            }
+          },
+          {
+            "id": "c6258fbe30216dc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1st_Year/Business _Statistics/Lecture_8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture_8"
+            }
+          },
+          {
+            "id": "a4f5dd84a58e6015",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5319a0c6336f7bf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8169772dc7726867",
+        "type": "tabs",
+        "dimension": 65.82278481012658,
+        "children": [
+          {
+            "id": "d3b0353071eb6cbf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d8bb65ef812795dd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d9107e903fefa580",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7b6c9f769a9e10ab",
+        "type": "tabs",
+        "dimension": 34.177215189873415,
+        "children": [
+          {
+            "id": "e191167e66b371a8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "15149a48bc436e54",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c290d2bf10c0b22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "186ee1c7b51a7d2a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1st_Year/Financial Markets/FM_Case_study.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for FM_Case_study"
+            }
+          },
+          {
+            "id": "e2d62999dd86e6d2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1st_Year/Financial Markets/FM_Case_study.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from FM_Case_study"
+            }
+          },
+          {
+            "id": "f296baa85f39a14e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "12b251fb34faffa6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "fa9dee4e60bd2792",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lecture_1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lecture_1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "graph:Open graph view": false
+    }
+  },
+  "active": "a4f5dd84a58e6015",
+  "lastOpenFiles": [
+    "1st_Year/Business _Statistics/Lecture_7.md",
+    "1st_Year/Business _Statistics/Lecture_8.md",
+    "1st_Year/Financial Markets/Financial Markets.md",
+    "1st_Year/Micro OB",
+    "1st_Year/Financial Markets/FM_Case_study.pdf",
+    "1st_Year/Financial Markets",
+    "1st_Year/Business Ethics/Class Assignment.md",
+    "CV.md",
+    "1st_Year/Business _Statistics/Lecture_5.md",
+    "1st_Year/Business _Statistics/Lecture_6.md",
+    "1st_Year/Business Ethics",
+    "1st_Year/Business _Statistics/Lecture_3.md",
+    "1st_Year/Financial Accounting/Exercise.md",
+    "1st_Year/Business _Statistics/Lecture_2.md",
+    "1st_Year/Business _Statistics/Lecture_1.md",
+    "1st_Year/Financial Accounting",
+    "1st_Year/Business _Statistics",
+    "Welcome.md",
+    "1st_Year"
+  ]
+}

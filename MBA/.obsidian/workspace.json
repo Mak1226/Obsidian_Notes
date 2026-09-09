@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1becf17697b21e1a",
+        "id": "2022254c94899e70",
         "type": "tabs",
         "children": [
           {
-            "id": "3c18fdc0e4b4613b",
+            "id": "5edb51bbb14cf28b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -29,7 +29,6 @@
       {
         "id": "8169772dc7726867",
         "type": "tabs",
-        "dimension": 65.82278481012658,
         "children": [
           {
             "id": "d3b0353071eb6cbf",
@@ -76,9 +75,8 @@
         ]
       },
       {
-        "id": "7b6c9f769a9e10ab",
+        "id": "a80f45219f41283f",
         "type": "tabs",
-        "dimension": 34.177215189873415,
         "children": [
           {
             "id": "e191167e66b371a8",
@@ -96,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 537.2054290771484
   },
   "right": {
     "id": "15149a48bc436e54",
@@ -182,8 +180,31 @@
               "icon": "lucide-list",
               "title": "Outline of Lecture_1"
             }
+          },
+          {
+            "id": "7592109789f35416",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {
+                "tabWorkspace": {
+                  "version": 1,
+                  "openTabs": [
+                    {
+                      "tabId": "tab-1788801347573-h3k0l5d",
+                      "conversationId": null,
+                      "draftModel": "sonnet"
+                    }
+                  ],
+                  "activeTabId": "tab-1788801347573-h3k0l5d"
+                }
+              },
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -198,36 +219,47 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "d3b0353071eb6cbf",
+  "active": "5edb51bbb14cf28b",
   "lastOpenFiles": [
-    "1st_Year/Term 2",
-    "1st_Year/Term 1",
-    "1st_Year/Term 1/Business _Statistics/Lectures/Lecture_8.md",
-    "1st_Year/Term 1/Marketing Management/Last_Lecture.md",
-    "1st_Year/Term 1/Marketing Management",
-    "1st_Year/Business _Statistics/Revision.md",
-    "1st_Year/Term 1/Business _Statistics/Lectures/Lecture_1.md",
-    "1st_Year/Term 1/Business _Statistics/Lectures/Lecture_2.md",
-    "1st_Year/Term 1/Business _Statistics/Lectures",
-    "1st_Year/Term 1/Business _Statistics/Lectures/Lecture_7.md",
-    "1st_Year/Business _Statistics/Lecture_8.md",
-    "1st_Year/Term 1/Financial Markets/Financial Markets.md",
-    "1st_Year/Term 1/Micro OB",
-    "1st_Year/Term 1/Financial Markets/FM_Case_study.pdf",
-    "1st_Year/Term 1/Financial Markets",
-    "1st_Year/Term 1/Business Ethics/Class Assignment.md",
-    "CV.md",
-    "1st_Year/Term 1/Business _Statistics/Lectures/Lecture_5.md",
-    "1st_Year/Term 1/Business _Statistics/Lectures/Lecture_6.md",
-    "1st_Year/Term 1/Business Ethics",
-    "1st_Year/Term 1/Business _Statistics/Lectures/Lecture_3.md",
-    "1st_Year/Term 1/Financial Accounting/Exercise.md",
-    "1st_Year/Term 1/Financial Accounting",
-    "1st_Year/Term 1/Business _Statistics",
-    "Welcome.md",
-    "1st_Year"
+    "1st_Year/Term_2/_sources/Cases/_Download_Links.md.tmp.7570.146e44dfb2e5",
+    "1st_Year/Term_2/_sources/Cases/_Download_Links.md.tmp.7570.1db8942b3bc5",
+    "1st_Year/Term_2/_sources/Cases/_Download_Links.md.tmp.7570.6fb9de502a6c",
+    "1st_Year/Term_2/_sources/Cases/Macro_Organizational_Behavior/_Cases_Index.md.tmp.7570.12e766c2e61e",
+    "1st_Year/Term_2/_sources/Cases/Macro_Organizational_Behavior/_Cases_Index.md.tmp.7570.b03e6b02c2b6",
+    "1st_Year/Term_2/_sources/Cases/Corporate_Finance/_Cases_Index.md.tmp.7570.1a3f154619d8",
+    "1st_Year/Term_2/_sources/Cases/Corporate_Finance/Mini_Case_New_Expansion_Project_Analysis.md",
+    "1st_Year/Term_2/_sources/Cases/Corporate_Finance/Mini_Case_New_Expansion_Project_Analysis_Notes.md",
+    "1st_Year/Term_2/_sources/Cases/Corporate_Finance/Mini_Case_Capital_Budget_Analyst_Notes.md",
+    "1st_Year/Term_2/_sources/Cases/Corporate_Finance/Mini_Case_Capital_Budget_Analyst.md",
+    "1st_Year/Term_2/_sources/Cases/Corporate_Finance/Frozen_Food_Products_Cost_of_Capital_Notes.md",
+    "1st_Year/Term_2/_sources/Cases/Corporate_Finance/Dells_Working_Capital.pdf",
+    "1st_Year/Term_2/_sources/Cases/Corporate_Finance/Beta_Management_Co_Notes.md",
+    "1st_Year/Term_2/_sources/Cases/Corporate_Finance/Beta_Management_Co.pdf",
+    "1st_Year/Term_2/_sources/Cases/Communication_II/Was_That_Harassment_Notes.md",
+    "1st_Year/Term_2/_sources/Cases/Communication_II/_Cases_Index.md",
+    "1st_Year/Term_2/_sources/Cases/Entrepreneurship/Cold_Opportunity_B_ICEHOTEL_Story_Notes.md.tmp.14306.c5910a8d0d5f",
+    "1st_Year/Term_2/_sources/Cases/Entrepreneurship/Cold_Opportunity_A_Nils_Bergqvist_Story_Notes.md.tmp.14306.81cfdfc838d2",
+    "1st_Year/Term_2/_sources/Cases/Corporate_Finance/Frozen_Food_Products_Cost_of_Capital_Notes.md.tmp.14306.5983bc043643",
+    "1st_Year/Term_2/_sources/Cases/Corporate_Finance/Beta_Management_Co.md",
+    "1st_Year/Term_2/_sources/Cases/Corporate_Finance/_Cases_Index.md",
+    "1st_Year/Term_2/_sources/Cases/Communication_II/When_the_Tone_of_an_Email_Went_Wrong_Notes.md",
+    "1st_Year/Term_2/_sources/Cases/Communication_II/When_the_Tone_of_an_Email_Went_Wrong.md",
+    "1st_Year/Term_2/_sources/Cases/Communication_II/Was_That_Harassment.md",
+    "1st_Year/Term_2/_sources/Cases/_Download_Links.md",
+    "1st_Year/Term_2/_sources/Cases/Marketing_Management_II/Cottle_Taylor_Expanding_the_Oral_Care_Group_in_India.md",
+    "1st_Year/Term_2/_sources/Cases/Marketing_Management_II/Cottle_Taylor_Expanding_the_Oral_Care_Group_in_India_Notes.md",
+    "1st_Year/Term_2/_sources/Cases/Managerial_Accounting/Colorscope_Inc.md",
+    "1st_Year/Term_2/_sources/Cases/Managerial_Accounting/Colorscope_Inc_Notes.md",
+    "1st_Year/Term_2/_sources/Cases/Entrepreneurship/Cold_Opportunity_A_Nils_Bergqvist_Story_Notes.md",
+    "1st_Year/Term_2/_sources/Cases/Entrepreneurship/Cold_Opportunity_A_Nils_Bergqvist_Story.md",
+    "1st_Year/Term_2/_sources/Cases/Macro_Organizational_Behavior/Dabur_acquires_Badshah_Notes.md",
+    "1st_Year/Term_2/_sources/Cases/Macro_Organizational_Behavior/Dabur_acquires_Badshah.md",
+    "1st_Year/Term_2/_sources/Cases/Macroeconomics/_Cases_Index.md",
+    "1st_Year/Term_2/_sources/Cases/Macro_Organizational_Behavior/_Cases_Index.md",
+    "1st_Year/Term_2/_sources/Cases/Macro_Organizational_Behavior/Houston_We_Have_a_Problem_NASA_and_Open_Innovation_A_Notes.md"
   ]
 }
